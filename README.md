@@ -1,2 +1,1 @@
 # BMI-Calculator
-<hr>
